@@ -6,14 +6,14 @@
 
 ## 读取向日葵
 
-![image-20241203162300228](/Users/wangpiaopiao/Desktop/工具源代码/STT-killer/assets/image-20241203162300228.png)
+![image-20241203162300228](/assets/image-20241203162300228.png)
 
 ## 读取Todesk_Lite
 
-![image-20241203162250830](/Users/wangpiaopiao/Desktop/工具源代码/STT-killer/assets/image-20241203162250830.png)
+![image-20241203162250830](/assets/image-20241203162250830.png)
 
 
 
 ## 读取Todesk
 
-![image-20241203162229043](/Users/wangpiaopiao/Desktop/工具源代码/STT-killer/assets/image-20241203162229043.png)
+![image-20241203162229043](/assets/image-20241203162229043.png)
